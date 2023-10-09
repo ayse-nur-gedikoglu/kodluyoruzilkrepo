@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+Kodluyoruz görevi içindir
